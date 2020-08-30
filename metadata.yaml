@@ -1,0 +1,30 @@
+_repo: Islam_62990
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Small, Annie H.
+    aliases:
+    - Small, Ann Hunter
+    - Small, A. H. (Annie H.)
+    birthdate: 1857
+    deathdate: 1945
+    gutenberg_agent_id: '52216'
+    url: http://www.gutenberg.org/2009/agents/52216
+    wikipedia: https://en.wikipedia.org/wiki/Annie_H._Small
+description: ''
+gutenberg_issued: '2020-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Studies in the faiths. II
+subjects:
+- !lcc 'BP'
+- !lcsh 'Christianity and other religions -- Islam'
+- !lcsh 'Islam'
+- GITenberg
+title: Islam
+url: http://www.gutenberg.org/ebooks/62990
